@@ -5,6 +5,7 @@ public class Hello {
         int a=18;
         int b=17;
         System.out.println(a+b);
+        System.out.println(a-b);
 
     }
 }
